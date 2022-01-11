@@ -7,4 +7,5 @@ int main()
 	 cin>>s;
 	 cout<<"Hello to  World Competative Programming "<<s<<endl;
 	// while(true); infinite loop testing for build
+	 cout<<sqrt(16);
 }

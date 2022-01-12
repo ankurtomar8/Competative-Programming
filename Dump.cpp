@@ -62,10 +62,13 @@ cout<< 3 * 7 /2 <<endl;  //10
 */
 
 	double a = 100000;
-	double b = 100000;
+	double b = 100000; // can't use double very much because of precision error 
 	double c = a*b;
 
-	cout<<fixed<<setprecision(0)<<c<<endl;
+	cout<<fixed<<setprecision(0)<<c<<endl; // setting precision to get exact
+
+
+
 
 
 

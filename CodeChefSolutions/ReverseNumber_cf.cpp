@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Code to reverse number using modulus
+
 int main()
 {
 
